@@ -1,1 +1,3 @@
 # RedidBurgerapp
+
+This application is desgined to use a couple of differnt applications into one to create a "Burger app". This application uses MYSQL, node, express, and handle bars. The application is desgined for the user to inuput the name of the burger that they would like to eat, and once selected the user will then have the option to devoure the burger that was selected. The application will also store that burger into the database whether the user chooses to devoure the buger or not.
