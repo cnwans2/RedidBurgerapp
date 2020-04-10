@@ -11,7 +11,7 @@ var router = express.Router();
 
 router.get("/", function(req, res) {
   burger.selectAll(function(data) {
-    var hdbrsObj = {
+    var burger_name= {
       burgers: data
     };
     console.log(burger.db);
