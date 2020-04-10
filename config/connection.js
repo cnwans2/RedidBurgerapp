@@ -5,7 +5,7 @@ var mysql = require("mysql");
     user: "root",
     password: "root",
     port:3306
-    _database: "burgers_db",
+    database: "burgers_db",
     get database() {
         return this._database;
     },
